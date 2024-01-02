@@ -1,0 +1,155 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> INTRODUCTION TO HTML</title>
+
+<body>
+<h1> <center> INTRODUCTION TO HTML</center></h1>
+<h2><b>Introduction: </b></h2>
+<i>HTML stands for Hyper Text Markup Language.</i>
+<i> HTML is used to create web pages. </i>
+<p>HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is a combination of Hypertext and Markup language. Hypertext defines the link between web pages. A markup language is used to define the text document within the tag which defines the structure of web pages. This language is used to annotate (make notes for the computer) text so that a machine can understand it and manipulate text accordingly. Most markup languages (e.g. HTML) are human-readable. The language uses tags to define what manipulation has to be done on the text.
+<p>HTML is a markup language used by the browser to manipulate text, images, and other content, in order to display it in the required format. HTML was created by Tim Berners-Lee in 1991. The first-ever version of HTML was HTML 1.0, but the first standard version was HTML 2.0, published in 1995</p>
+<h2><b> Uses of HTML</b></h2>
+<p>1. Web Pages Development</p>  
+<p>2. Data Entry Support</p>
+<p>3. Game Development</p>
+<p> 4. Responsive Designs</p>
+<p>5. Enrich the Website</p>
+<p>6. Storage Function in the Browser</p>
+<p>7.Navigating the internet</p>
+<h2><b>Tags and their uses:</b></h2>
+<b><u> Basic tags </u></b>
+<p> 1. html tag <br>
+~ html tag is used to indicate the beginning and end of an HTML element in an HTML document. <br>
+<br>
+2. paragraph tag <br>
+~ A paragraph is a block-level element so a new paragraph always begins on a new line, and browsers naturally put some space before and after a paragraph to make it look neat and easy to read. <br>
+Eg:-<p> My name is Avantika Belose.I live in chembur.I am 18 years old.I did my schooling from Modern English School.Cleared my HSC from SIWS college.Currently studing in first year BSsc IT  </p>
+<br>
+<p> 3.Heading tag</p>
+  <p> ~padded tag , container tag</p>
+  <p>~used for heading</p>
+  <p> eg :<h1>heading</h1> 
+    <h2>heading</h2>
+    <h3>heading</h3>
+    <h4>heading</h4>
+    <h5>heading</h5>
+  </p>
+<br>4. Body tag <br>
+~ Body tag defines document's body <br>
+<br>
+5. Title tag <br>
+~ Title tag defines the title of the document. The title must be text-only, and it is shown in the browser's title bar. <br>
+<p>1.Big tag</p>
+  <p> ~paired tag</p>
+  <P>eg: <big>D</big>rop</P>
+  <p>6.small tag</p>
+  <p>~paired tag</p>
+  <p>eg:D<small>rop</small></p>
+ <p>7.Strike tag </p>
+  <p>~padded tag , container tag</p>
+  <p>~used to cancel or strike the word</p>
+  <p>eg :<strike > rs 350</strike></p>
+  <p> 8.Sub tag</p>
+  <p>~padded tag , container tag</p>
+  <p>eg: <p>x <sub>2</sub></p></p>
+  <p>9.Sup tag</p>
+  <p>~padded tag , container tag</p>
+  <p>eg: <p>x<sup>2</sup></p></p>
+  <p>10.Typewriter tag</p>
+  <p>~padded tag , container tag</p>
+  <p>~A container tag is used to be rendered in a fixed with font </p>
+  <p>eg: <TT>MY NAME IS YASH UPARKAR </TT></p>
+  <p>11.Underlining Tag </p>
+  <p>~padded tag, conatainer tag </p>
+  <p>~used for underlining </p>
+  <p>eg: <u>Apple</u></p>
+  <p>12.Abbrevaition (ABBR)</p>
+  <p>~padded tag , container tag </p>
+  <p>~it is used to give fullform of acronym</p>
+  <p>~eg:who <ABBR> world health organisation</ABBR></p>
+  <p> 13.Acroynm</p>
+  <p>~padded tag , container tag</p>
+  <p>eg:World Health Organisation <ACROYNM> who </ACROYNM></p>
+  <p>14.Address tag</p>
+  <p>~container tag </p>
+  <p>~it is used to inert address into a content and is then generate a link </p>
+  <p>eg: <address> xyz street </address></p>
+  <p>15.Cite tag </p>
+  <p>~container tag</p>
+  <p>~It is used to show that the content is referred from somewhere</p>
+  <p>eg: <cite>referred from.wikipedia</cite></p>
+  <p>16.Code tag</p>
+  <p>~container tag</p>
+  <p>~It is used to define a computer code with in a html document</p>
+  <p>eg:<code> console.com </code></p>
+  <p>17.Delete tag</p>
+  <p>~container tag </p>
+  <p>~It is used to cancel the text from the content  </p>
+  <p>eg: <del>Yash</del></p>
+  <p>18.Insert tag</p>
+  <p>~container tag</p>
+  <p>~It is used to indicate that its an inserted text to the document</p>
+  <p>eg: The <ins> new </ins> version </p>
+  <p>19.Define tag</p>
+  <p>~container tag</p>
+  <p>~It is used to define a particular term</p>
+  <p>eg: <dfn> "Hypertext Markup Language"</dfn> is a full form of HTML</p>
+  <p>20.Emphasized tag</p>
+  <p>~container tag </p>
+  <p>~It is used to indicate that it is emphasize text </p>
+  <p>eg: <em>A</em> red ballon </p>
+  <p>21.Keyboard Input text Tag</p>
+  <p>~container tag</p>
+  <p>~It is used to define used input or keyboard input </p>
+  <p>22.Sample text Tag</p>
+  <p>~container tag</p>
+  <p>~it is used to define text that represent sample output from a computer program</p>
+  <p>eg: Calculation is<samp> 22 </samp></p>
+  <p>23.Variable tag</p>
+  <p>~container tag </p>
+  <p>~It is used to define a variable within the centre of mathematical expression </p>
+  <p>eg:<var> r </var> int </p>
+  <p>24.Bold font </p>
+  <p>~padded tag ,container tag</p> 
+  <p>~It is used to bold the text </p>
+  <p>eg: This <B>Boldface</B> model </p>
+  <p>25.Base font</p>
+  <p>~standalone tag</p>
+  <p>eg:<basefont color="blue" size="5" face="arial"></p>
+  <p>26. Center tag </p>
+  ~ Center tag is used to set the alignment in the center of the page. <br>
+  Eg:- <center> Center </center> <br>
+  27. Ordered list <br>
+ ~ The list is in sequence <br>
+ Eg:- <ol> <li>Ritesh</li>
+ <li> Yash</li> </ol> <br>
+ 28. Unordered list <br>
+ ~ It defines an unordered list <br>
+ Eg:- <ul> <li> Yash</li>
+ <li> Ritesh</li> </ul> <br>
+ 29. Description tag <br>
+ ~ description tag is used to describe a term/name in a description list. The < dd >tag is used in conjunction with < dl > (defines a description list) and < dt > (defines terms/names). <br>
+ Eg:- <dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+ </dl> <br>
+ 30. Menu tag <br>
+ ~ Menu tag defines an unordered list of content. Use the menu tag together with the < li > tag to create menu items.<br>
+ Eg:- <menu>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  </menu> <br>
+
+
+
+
+    
+</body>
+</head>
+</html>
